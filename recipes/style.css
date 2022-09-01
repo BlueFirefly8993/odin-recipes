@@ -1,0 +1,11 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+#main-title {
+  font-family: "Lucida Handwriting", cursive;
+}
+
+#sub-title {
+  text-decoration-line: underline;
+}
