@@ -4,4 +4,9 @@
 
 #title {
   background-color: lightsteelblue;
+  padding: 0.5em;
+  margin-right: 87%;
+  padding: 0.5em;
+  text-align: center;
+  border: 3px solid black;
 }
