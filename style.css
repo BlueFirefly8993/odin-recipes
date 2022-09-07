@@ -5,8 +5,10 @@
 #title {
   background-color: lightsteelblue;
   padding: 0.5em;
-  margin-right: 87%;
-  padding: 0.5em;
   text-align: center;
-  border: 3px solid black;
+  border: 2px solid black;
+  display: flex;
+  flex: initial;
+  width: 180px;
+  justify-content: flex-start;
 }
